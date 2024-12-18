@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-4.9091797" y="-3.9312139" z="-7.1855445" />
+      <bbMax x="6.685547" y="3.061462" z="10.390628" />
+      <bsCentre x="0.8881836" y="-0.43487597" z="1.6025417" />
+      <bsRadius value="11.093432" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_house4</name>
+      <textureDictionary>esc_house4</textureDictionary>
+      <physicsDictionary>esc_house4</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_house4</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_house4</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

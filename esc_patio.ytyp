@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-28.435362" y="-6.7092214" z="-30.366867" />
+      <bbMax x="25.717958" y="3.2736888" z="13.588211" />
+      <bsCentre x="-1.3587017" y="-1.7177663" z="-8.389328" />
+      <bsRadius value="35.22886" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_patio</name>
+      <textureDictionary>esc_patio</textureDictionary>
+      <physicsDictionary>esc_patio</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_patio</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_patio</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
