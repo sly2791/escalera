@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+       <bbMin x="-0.08927793" y="-2.0046246" z="-1.2114388" />
+      <bbMax x="0.08927793" y="2.0046246" z="1.2114385" />
+      <bsCentre x="0.0" y="0.0" z="-1.1920929e-07" />
+      <bsRadius value="2.343944" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_wall6</name>
+      <textureDictionary>esc_wall6</textureDictionary>
+      <physicsDictionary>esc_wall6</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_wall6</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_wall6</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
