@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-4.930211" y="-6.088059" z="-4.4701586" />
+      <bbMax x="5.312953" y="3.9661403" z="4.409724" />
+      <bsCentre x="0.19137096" y="-1.0609593" z="-0.03021717" />
+      <bsRadius value="8.438923" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>villapost3</name>
+      <textureDictionary>villapost3</textureDictionary>
+      <physicsDictionary>villapost3</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>villapost3</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>villapost3</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
