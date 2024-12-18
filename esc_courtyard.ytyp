@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-10.250683" y="-2.506078" z="-3.2851796" />
+      <bbMax x="3.7083015" y="5.086207" z="6.512672" />
+      <bsCentre x="-3.2711906" y="1.2900645" z="1.6137462" />
+      <bsRadius value="9.333996" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_courtyard</name>
+      <textureDictionary>esc_courtyard</textureDictionary>
+      <physicsDictionary>esc_courtyard</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_courtyard</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_courtyard</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

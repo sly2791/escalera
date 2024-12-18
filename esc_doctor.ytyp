@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-7.4121094" y="-2.7873173" z="-8.048062" />
+      <bbMax x="5.8605037" y="2.207312" z="6.27051" />
+      <bsCentre x="-0.77580285" y="-0.29000258" z="-0.88877606" />
+      <bsRadius value="10.076335" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_doctor</name>
+      <textureDictionary>esc_doctor</textureDictionary>
+      <physicsDictionary>esc_doctor</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_doctor</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_doctor</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
