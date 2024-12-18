@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+     <bbMin x="-7.8975787" y="-2.3416686" z="-8.1899395" />
+      <bbMax x="16.16504" y="3.5133119" z="11.168481" />
+      <bsCentre x="4.13373" y="0.5858216" z="1.4892707" />
+      <bsRadius value="15.716542" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_blacksmith01x</name>
+      <textureDictionary>esc_blacksmith01x</textureDictionary>
+      <physicsDictionary>esc_blacksmith01x</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_blacksmith01x</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_blacksmith01x</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
