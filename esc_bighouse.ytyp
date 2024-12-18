@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+       <bbMin x="-10.99109" y="-6.375952" z="-19.655794" />
+      <bbMax x="12.130004" y="7.2099857" z="22.410612" />
+      <bsCentre x="0.56945705" y="0.41701698" z="1.377409" />
+      <bsRadius value="24.943663" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_bighouse</name>
+      <textureDictionary>esc_bighouse</textureDictionary>
+      <physicsDictionary>esc_bighouse</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_bighouse</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_bighouse</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

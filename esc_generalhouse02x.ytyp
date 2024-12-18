@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-4.6578417" y="-4.3529286" z="-4.5371656" />
+      <bbMax x="4.5023146" y="2.6397471" z="4.6122484" />
+      <bsCentre x="-0.07776356" y="-0.85659075" z="0.03754139" />
+      <bsRadius value="7.357271" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_generalhouse02x</name>
+      <textureDictionary>esc_generalhouse02x</textureDictionary>
+      <physicsDictionary>esc_generalhouse02x</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_generalhouse02x</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_generalhouse02x</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

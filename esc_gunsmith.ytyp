@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+       <bbMin x="-9.305176" y="-5.3876224" z="-16.81201" />
+      <bbMax x="9.381348" y="4.697827" z="8.380374" />
+      <bsCentre x="0.038085938" y="-0.34489775" z="-4.215818" />
+      <bsRadius value="16.473907" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_gunsmith</name>
+      <textureDictionary>esc_gunsmith</textureDictionary>
+      <physicsDictionary>esc_gunsmith</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_gunsmith</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_gunsmith</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

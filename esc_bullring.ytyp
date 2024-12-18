@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-26.83558" y="-4.1905828" z="-24.164766" />
+      <bbMax x="6.893912" y="5.4192805" z="16.599882" />
+      <bsCentre x="-9.970835" y="0.6143489" z="-3.782442" />
+      <bsRadius value="26.88766" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_bullring</name>
+      <textureDictionary>esc_bullring</textureDictionary>
+      <physicsDictionary>esc_bullring</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_bullring</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_bullring</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

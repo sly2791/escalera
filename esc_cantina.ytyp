@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-19.75185" y="-7.7734165" z="-18.203543" />
+      <bbMax x="14.99815" y="6.5268764" z="26.596262" />
+      <bsCentre x="-2.3768501" y="-0.62327003" z="4.1963596" />
+      <bsRadius value="29.236464" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_cantina</name>
+      <textureDictionary>esc_cantina</textureDictionary>
+      <physicsDictionary>esc_cantina</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_cantina</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_cantina</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

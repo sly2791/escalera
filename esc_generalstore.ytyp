@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-12.960938" y="0.236345" z="-12.000488" />
+      <bbMax x="14.329102" y="5.91847" z="24.455566" />
+      <bsCentre x="0.68408155" y="3.0774074" z="6.227539" />
+      <bsRadius value="22.946005" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_generalstore</name>
+      <textureDictionary>esc_generalstore</textureDictionary>
+      <physicsDictionary>esc_generalstore</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_generalstore</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_generalstore</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

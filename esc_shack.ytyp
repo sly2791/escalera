@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-13.379508" y="-6.5984964" z="-9.450321" />
+      <bbMax x="15.648926" y="5.1290436" z="17.530277" />
+      <bsCentre x="1.1347089" y="-0.7347264" z="4.039978" />
+      <bsRadius value="20.664812" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>esc_shack</name>
+      <textureDictionary>esc_shack</textureDictionary>
+      <physicsDictionary>esc_shack</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>esc_shack</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>esc_shack</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
